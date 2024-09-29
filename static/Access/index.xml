@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Accesses on </title>
+    <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/</link>
+    <description>Recent content in Accesses on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1. intro et présentation générale</title>
+      <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/lesson1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/lesson1/</guid>
+      <description>&#xD;Vidéo&#xD;#&#xD;</description>
+    </item>
+    <item>
+      <title>2. Requette d&#39;ajout</title>
+      <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/lesson2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/lesson2/</guid>
+      <description>&#xD;Vidéo&#xD;#&#xD;</description>
+    </item>
+    <item>
+      <title>3. Requette de mise à jour</title>
+      <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/lesson3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/lesson3/</guid>
+      <description>&#xD;Vidéo&#xD;#&#xD;</description>
+    </item>
+    <item>
+      <title>4. Requette de Sélèction</title>
+      <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/lesson4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/lesson4/</guid>
+      <description>&#xD;Vidéo&#xD;#&#xD;</description>
+    </item>
+    <item>
+      <title>5. Critères de filtre</title>
+      <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/lesson5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/lesson5/</guid>
+      <description>&#xD;Vidéo&#xD;#&#xD;</description>
+    </item>
+    <item>
+      <title>6. Requette de sélection avancée</title>
+      <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/lesson6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/lesson6/</guid>
+      <description>&#xD;Vidéo&#xD;#&#xD;</description>
+    </item>
+    <item>
+      <title>7. Requette de sélection parametrée</title>
+      <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/lesson7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/lesson7/</guid>
+      <description>&#xD;Vidéo&#xD;#&#xD;</description>
+    </item>
+    <item>
+      <title>8. Requette de suppression</title>
+      <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/lesson8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/lesson8/</guid>
+      <description>&#xD;Vidéo&#xD;#&#xD;</description>
+    </item>
+  </channel>
+</rss>
