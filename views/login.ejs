@@ -17,14 +17,15 @@
         <% } %>
 
         <form class="login-form" action="/login" method="POST">
+          <h3 class="rtl">
+            مرحبا بيك! اكتب الـcodes الي جاوك بش تدخل تلقى الـmasterclass
+          </h3>
           <input type="text" placeholder="Code 1" name="phone" required />
           <input type="text" placeholder="Code 2" name="password" required />
-          <button type="submit">Se Connecter</button>
-          <p class="message">
-            Pas de Compte ?
-            <a href="https://www.xposure.tn" target="_blank"
-              >Acheter un abonnement</a
-            >
+          <button type="submit rtl">Masterclassأدخل لل</button>
+          <p class="message rtl">
+            ما عندكش حساب؟
+            <a href="https://www.xposure.tn" target="_blank">خوذ الكود متاعك</a>
           </p>
         </form>
       </div>
@@ -126,6 +127,9 @@
         font-family: "Roboto", sans-serif;
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
+      }
+      .rtl{
+        direction: rtl;
       }
     </style>
   </body>
